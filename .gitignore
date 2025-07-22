@@ -1,0 +1,58 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+*.sqlite3
+
+# Virtual environments
+env/
+venv/
+ENV/
+wellness-env/
+venv310/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Upload folders
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+alembic/env.py
+alembic/README
+alembic/script.py.mako
+alembic/versions/00f54396ac71_add_activity_level_to_user_model.py
+alembic/versions/5e0f99be130a_add_community_posts_and_comments.py
+alembic/versions/5f6993a756d2_added_passwordresetcode_table.py
+alembic/versions/12cd06f21df3_added_activity_logs_table.py
+alembic/versions/23fabb388b76_add_spoonacular_id_to_meals.py
+alembic/versions/87e26eece403_updated_workout_logs_model.py
+alembic/versions/92ecdeca10b7_updated_workout_logs_model.py
+alembic/versions/184c891c8c6b_added_activity_logs_relationship.py
+alembic/versions/342c1aa4074d_add_passwordresetcode_table.py
+alembic/versions/796c8b66ace2_add_passwordresetcode_table.py
+alembic/versions/9020e4549572_add_passwordresetcode_table.py
+alembic/versions/52108a6fe864_added_achievements_and_streaks_tables.py
+alembic/versions/86585afc80f4_add_password_reset_codes.py
+alembic/versions/18021917fd19_added_media_url_to_posts.py
+alembic/versions/138131861dce_updated_meals_table_with_goal_macros.py
+alembic/versions/a126ff146b64_added_logged_workouts_table.py
+alembic/versions/a5206aca5e53_sync_database_schema.py
+alembic/versions/c3bb4a5f108f_add_passwordresetcode_table.py
+alembic/versions/c4eb039ca78a_added_image_field_to_meal_model.py
+alembic/versions/c49e59e2244a_added_workouts_meals_posts_comments_.py
+alembic/versions/ea13550ae4ba_added_logged_meals_table.py
+alembic/versions/f1f9ec556198_add_profile_picture_field_to_user.py
+alembic/versions/fada2eec5719_added_passwordresetcode_table.py
+.env
+alembic.ini
+ENV
+structure.txt
